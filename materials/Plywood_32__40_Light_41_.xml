@@ -1,0 +1,12 @@
+<material>
+  <thumbnailPath>Plywood_32__40_Light_41_.png</thumbnailPath>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#ffffd9</color>
+  <name>Plywood (Light)</name>
+  <materialThicknesses>
+    <float>2.0</float>
+    <float>3.0</float>
+    <float>5.0</float>
+  </materialThicknesses>
+</material>

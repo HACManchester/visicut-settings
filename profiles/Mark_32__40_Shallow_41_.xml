@@ -1,0 +1,10 @@
+<vectorProfile>
+  <DPI>500.0</DPI>
+  <description>Engrave along lines</description>
+  <name>Mark (Shallow)</name>
+  <temporaryCopy>false</temporaryCopy>
+  <orderStrategy>NEAREST</orderStrategy>
+  <useOutline>false</useOutline>
+  <isCut>true</isCut>
+  <width>0.1</width>
+</vectorProfile>

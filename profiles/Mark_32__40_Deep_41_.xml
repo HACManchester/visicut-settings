@@ -1,0 +1,10 @@
+<vectorProfile>
+  <DPI>500.0</DPI>
+  <description>like mark, but deeper</description>
+  <name>Mark (Deep)</name>
+  <temporaryCopy>false</temporaryCopy>
+  <orderStrategy>NEAREST</orderStrategy>
+  <useOutline>true</useOutline>
+  <isCut>true</isCut>
+  <width>0.1</width>
+</vectorProfile>
