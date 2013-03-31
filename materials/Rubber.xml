@@ -1,5 +1,6 @@
 <material>
   <description>generated from Lasercutter-Wiki page</description>
+  <thumbnailPath>Rubber.png</thumbnailPath>
   <engraveColor>#000000</engraveColor>
   <cutColor>#ff0000</cutColor>
   <color>#bcbcbc</color>
