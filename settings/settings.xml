@@ -1,10 +1,11 @@
 <visicutPreferences>
+  <defaultMapping>Cut everything</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <windowBounds>
-    <x>-1</x>
+    <x>0</x>
     <y>27</y>
-    <width>1442</width>
-    <height>874</height>
+    <width>1433</width>
+    <height>842</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
@@ -14,7 +15,7 @@
     <string>/tmp/ink_ext_XXXXXX.svgGHSY2W.svg</string>
     <string>/tmp/ink_ext_XXXXXX.svgA6P22W.svg</string>
   </recentFiles>
-  <lastMaterial>Mylar</lastMaterial>
+  <lastMaterial>Acrylic</lastMaterial>
   <lastLaserDevice>LAOS KIII</lastLaserDevice>
   <availableImporters>
     <string>com.t_oster.visicut.model.graphicelements.svgsupport.SVGImporter</string>
