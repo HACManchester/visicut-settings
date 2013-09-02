@@ -1,13 +1,20 @@
 <visicutPreferences>
+  <disableSandbox>false</disableSandbox>
   <windowBounds>
-    <x>192</x>
-    <y>67</y>
-    <width>1107</width>
-    <height>779</height>
+    <x>-1</x>
+    <y>27</y>
+    <width>1442</width>
+    <height>874</height>
   </windowBounds>
-  <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
-  <recentFiles/>
-  <lastMaterial>Acrylic</lastMaterial>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>/tmp/ink_ext_XXXXXX.svgFZI42W.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgK2JT2W.svg</string>
+    <string>/home/parag0n/hacmanmeeple.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgGHSY2W.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgA6P22W.svg</string>
+  </recentFiles>
+  <lastMaterial>Mylar</lastMaterial>
   <lastLaserDevice>LAOS KIII</lastLaserDevice>
   <availableImporters>
     <string>com.t_oster.visicut.model.graphicelements.svgsupport.SVGImporter</string>

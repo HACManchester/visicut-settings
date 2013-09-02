@@ -1,7 +1,7 @@
 <linked-list>
-  <com.t__oster.liblasercut.drivers.LaosEngraveProperty>
+  <LaosCutterProperty>
     <power>10.0</power>
-    <speed>50.0</speed>
+    <speed>100.0</speed>
     <focus>0.0</focus>
     <frequency>500</frequency>
     <hidePurge>true</hidePurge>
@@ -10,7 +10,5 @@
     <hideFrequency>true</hideFrequency>
     <ventilation>true</ventilation>
     <purge>true</purge>
-    <engraveBottomUp>false</engraveBottomUp>
-    <engraveUnidirectional>false</engraveUnidirectional>
-  </com.t__oster.liblasercut.drivers.LaosEngraveProperty>
+  </LaosCutterProperty>
 </linked-list>

@@ -6,9 +6,10 @@
   <color>#a4a4fe</color>
   <name>Acrylic</name>
   <materialThicknesses>
-    <float>3.0</float>
-    <float>2.0</float>
-    <float>1.5</float>
     <float>1.0</float>
+    <float>1.5</float>
+    <float>2.0</float>
+    <float>3.0</float>
+    <float>4.0</float>
   </materialThicknesses>
 </material>

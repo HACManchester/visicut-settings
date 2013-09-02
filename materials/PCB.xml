@@ -1,0 +1,10 @@
+<material>
+  <thumbnailPath>PCB_32_Etch_32_Resist.png</thumbnailPath>
+  <engraveColor>#cc7a11</engraveColor>
+  <cutColor>#fefefe</cutColor>
+  <color>#010101</color>
+  <name>PCB Etch Resist</name>
+  <materialThicknesses>
+    <float>1.6</float>
+  </materialThicknesses>
+</material>
