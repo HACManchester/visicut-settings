@@ -9,8 +9,13 @@
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
+    <string>/home/parag0n/.visicut/examples/hacmankeyring.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg63ZS9W.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgI2YH9W.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg8HSW9W.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgP0PP9W.svg</string>
   </recentFiles>
-  <lastMaterial>Acrylic</lastMaterial>
+  <lastMaterial>MDF</lastMaterial>
   <lastLaserDevice>LAOS KIII</lastLaserDevice>
   <availableImporters>
     <string>com.t_oster.visicut.model.graphicelements.svgsupport.SVGImporter</string>
