@@ -2,20 +2,20 @@
   <defaultMapping>Cut everything</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <windowBounds>
-    <x>0</x>
+    <x>-1</x>
     <y>27</y>
-    <width>1433</width>
-    <height>842</height>
+    <width>1442</width>
+    <height>874</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>/home/parag0n/.visicut/examples/hacmankeyring.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svg63ZS9W.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgI2YH9W.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svg8HSW9W.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgP0PP9W.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgXO1OFX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgJHYOFX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgEASCFX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgJ95FFX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgI6FGFX.svg</string>
   </recentFiles>
-  <lastMaterial>MDF</lastMaterial>
+  <lastMaterial>Wenge Veneer</lastMaterial>
   <lastLaserDevice>LAOS KIII</lastLaserDevice>
   <availableImporters>
     <string>com.t_oster.visicut.model.graphicelements.svgsupport.SVGImporter</string>

@@ -1,0 +1,421 @@
+<com.t__oster.visicut.model.mapping.MappingSet serialization="custom">
+  <unserializable-parents/>
+  <linked-list>
+    <default/>
+    <int>12</int>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>128</red>
+              <green>0</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Engrave along lines</description>
+        <name>Mark (Shallow)</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>255</red>
+              <green>0</green>
+              <blue>199</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>like mark, but deeper</description>
+        <name>Mark (Deep)</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>true</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>255</red>
+              <green>0</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>0</red>
+              <green>0</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>255</red>
+              <green>255</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>0</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>0</red>
+              <green>0</green>
+              <blue>128</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>0</red>
+              <green>255</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>128</red>
+              <green>0</green>
+              <blue>128</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>0</red>
+              <green>128</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>128</red>
+              <green>128</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Color</attribute>
+            <value class="awt-color">
+              <red>255</red>
+              <green>102</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>Cut</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.1</width>
+      </b>
+    </mapping>
+  </linked-list>
+  <com.t__oster.visicut.model.mapping.MappingSet>
+    <default>
+      <description>A new created mapping</description>
+      <name>LED Bug</name>
+    </default>
+  </com.t__oster.visicut.model.mapping.MappingSet>
+</com.t__oster.visicut.model.mapping.MappingSet>

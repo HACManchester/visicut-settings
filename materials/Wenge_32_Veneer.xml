@@ -1,0 +1,10 @@
+<material>
+  <description>Wenge</description>
+  <engraveColor>#0029ff</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#b8a97f</color>
+  <name>Wenge Veneer</name>
+  <materialThicknesses>
+    <float>0.8</float>
+  </materialThicknesses>
+</material>
