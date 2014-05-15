@@ -6,7 +6,10 @@ Please:
 -And press &apos;start&apos; on the Lasercutter $name</jobSentText>
   <jobPrefix>visicut </jobPrefix>
   <laserCutter class="com.t_oster.liblasercut.drivers.LaosCutter">
-    <unidir>false</unidir>
+    <supportsFrequency>false</supportsFrequency>
+    <supportsFocus>false</supportsFocus>
+    <supportsPurge>false</supportsPurge>
+    <supportsVentilation>false</supportsVentilation>
     <debugFilename></debugFilename>
     <addSpacePerRasterLine>5.0</addSpacePerRasterLine>
     <useTftp>true</useTftp>
