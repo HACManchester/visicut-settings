@@ -1,35 +1,17 @@
 <visicutPreferences>
   <defaultMapping>Cut everything</defaultMapping>
   <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>true</useFilenamesForJobs>
   <windowBounds>
-<<<<<<< HEAD
     <x>0</x>
-    <y>22</y>
-    <width>1280</width>
-    <height>774</height>
-  </windowBounds>
-  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
-  <recentFiles>
-    <string>/var/folders/5c/2gypvzlj1lsf10pnqxrmhktc0000gn/T/ink_ext_XXXXXX.svgQ04S7W.svg</string>
-    <string>/var/folders/5c/2gypvzlj1lsf10pnqxrmhktc0000gn/T/ink_ext_XXXXXX.svgPM057W.svg</string>
-  </recentFiles>
-  <lastMaterial>MDF</lastMaterial>
-=======
-    <x>-1</x>
     <y>27</y>
-    <width>1442</width>
-    <height>874</height>
+    <width>1433</width>
+    <height>854</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>/tmp/ink_ext_XXXXXX.svgXO1OFX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgJHYOFX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgEASCFX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgJ95FFX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgI6FGFX.svg</string>
   </recentFiles>
-  <lastMaterial>Wenge Veneer</lastMaterial>
->>>>>>> FETCH_HEAD
+  <lastMaterial>Acrylic</lastMaterial>
   <lastLaserDevice>LAOS KIII</lastLaserDevice>
   <availableImporters>
     <string>com.t_oster.visicut.model.graphicelements.svgsupport.SVGImporter</string>
