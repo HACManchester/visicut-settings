@@ -1,5 +1,6 @@
 <material>
   <description>Wenge</description>
+  <thumbnailPath>Wenge.png</thumbnailPath>
   <engraveColor>#0029ff</engraveColor>
   <cutColor>#ff0000</cutColor>
   <color>#b8a97f</color>
