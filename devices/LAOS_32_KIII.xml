@@ -15,7 +15,7 @@ Please:
     <useTftp>true</useTftp>
     <flipXaxis>false</flipXaxis>
     <flipYaxis>true</flipYaxis>
-    <hostname>10.0.1.12</hostname>
+    <hostname>172.16.0.12</hostname>
     <port>69</port>
     <mmPerStep>0.001</mmPerStep>
     <currentPower>-1.0</currentPower>
