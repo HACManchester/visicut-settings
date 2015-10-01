@@ -2,7 +2,6 @@
   <jobSentText>Job was sent as &apos;$jobname&apos;
 Please:
 -Close the lid
--Turn on the Ventilation
 -And press &apos;start&apos; on the Lasercutter $name</jobSentText>
   <jobPrefix>visicut </jobPrefix>
   <laserCutter class="com.t_oster.liblasercut.drivers.LaosCutter">
@@ -11,20 +10,24 @@ Please:
     <supportsPurge>false</supportsPurge>
     <supportsVentilation>false</supportsVentilation>
     <debugFilename></debugFilename>
-    <addSpacePerRasterLine>5.0</addSpacePerRasterLine>
+    <addSpacePerRasterLine>10.0</addSpacePerRasterLine>
     <useTftp>true</useTftp>
     <flipXaxis>false</flipXaxis>
     <flipYaxis>true</flipYaxis>
-    <hostname>172.16.0.12</hostname>
+    <hostname>172.16.0.13</hostname>
     <port>69</port>
     <mmPerStep>0.001</mmPerStep>
     <currentPower>-1.0</currentPower>
     <currentSpeed>-1.0</currentSpeed>
     <currentFrequency>-1</currentFrequency>
     <currentFocus>0.0</currentFocus>
-    <bedWidth>300.0</bedWidth>
-    <bedHeight>200.0</bedHeight>
+    <bedWidth>600.0</bedWidth>
+    <bedHeight>400.0</bedHeight>
   </laserCutter>
-  <thumbnailPath>LAOS_32_KIII.png</thumbnailPath>
-  <name>LAOS KIII</name>
+  <cameraTiming>0</cameraTiming>
+  <projectorTiming>0</projectorTiming>
+  <projectorWidth>0</projectorWidth>
+  <projectorHeight>0</projectorHeight>
+  <thumbnailPath>Hackspace_32_Manchester_32_Orange_32_Laser.png</thumbnailPath>
+  <name>Hackspace Manchester Orange Laser</name>
 </laserDevice>
