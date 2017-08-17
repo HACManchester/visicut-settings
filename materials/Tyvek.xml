@@ -1,0 +1,11 @@
+<material>
+  <description>Actual DuPont Tyvek, Basically polyester.  Probably wont etch nicely.</description>
+  <thumbnailPath>Tyvek.png</thumbnailPath>
+  <engraveColor>#404040</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#fefefe</color>
+  <name>Tyvek</name>
+  <materialThicknesses>
+    <float>0.1</float>
+  </materialThicknesses>
+</material>

@@ -1,7 +1,7 @@
 <linked-list>
   <com.t__oster.liblasercut.drivers.LaosEngraveProperty>
-    <power>1.0</power>
-    <speed>100.0</speed>
+    <power>10.0</power>
+    <speed>60.0</speed>
     <focus>0.0</focus>
     <frequency>500</frequency>
     <hidePurge>true</hidePurge>
