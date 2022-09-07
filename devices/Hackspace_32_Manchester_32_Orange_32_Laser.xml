@@ -1,10 +1,13 @@
-<laserDevice>
-  <jobSentText>Job was sent as &apos;$jobname&apos;
+<?xml version="1.0" encoding="UTF-8"?>
+
+<laserDevice version="0">
+  <originBottomLeft>false</originBottomLeft>
+  <jobSentText>Job was sent as '$jobname'
 Please:
 -Close the lid
--And press &apos;start&apos; on the Lasercutter $name</jobSentText>
+-And press 'start' on the Lasercutter $name</jobSentText>
   <jobPrefix>visicut </jobPrefix>
-  <laserCutter class="com.t_oster.liblasercut.drivers.LaosCutter">
+  <laserCutter class="de.thomas_oster.liblasercut.drivers.LaosCutter">
     <supportsFrequency>false</supportsFrequency>
     <supportsFocus>false</supportsFocus>
     <supportsPurge>false</supportsPurge>
